@@ -2,7 +2,6 @@
 .vscode/
 
 # Compiled class file
-
 *.class
 *.jar
 *.log
@@ -17,4 +16,4 @@ target/
 bin/
 out/
 build/
-dist/  
+dist/
